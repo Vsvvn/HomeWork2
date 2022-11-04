@@ -63,7 +63,7 @@ public class Main {
         var oneEmployeesHours = 8;
         System.out.println("Один сотрудник посвящает работе " + oneEmployeesHours + " часов.");
         var numberOfEmployees = totalWorkingHoursEmployees / oneEmployeesHours;
-        System.out.println("Всего работников в компании – " + numberOfEmployees + " человек.");
+        System.out.println("Всего сотрудников в компании – " + numberOfEmployees + " человек.");
 
         System.out.println("Задача № 8 (2)");
         numberOfEmployees = numberOfEmployees + 94;
